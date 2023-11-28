@@ -1,0 +1,37 @@
+Verificar se existe um par de tênis
+Se existe o par de tênis, verificar se o tênis do pé esquerdo tem cadarço
+Se existe o par de tênis, verificar se o tênis do pé direito tem cadarço
+Se o par de tênis tiver cadarço, pegar o tênis do pé esquerdo
+Calçar o tênis do pé esquerdo
+Se o par de tênis tiver cadarço, pegar o tênis do pé direito
+Calçar o tênis do pé direito
+Ao calçar o tênis do pé esquerdo pegar uma ponta do cadarço do pé esquerdo com a mão esquerda
+Ao calçar o tênis do pé esquerdo pegar a outra ponta do cadarço do pé esquerdo com a mão direita
+Ao pegar as duas pontas do cadarço do pé esquerdo dá um nó
+Ao calçar o tênis do pé direito pegar uma ponta do cadarço do pé direito com a mão esquerda
+Ao calçar o tênis do pé direito pegar a outra ponta do cadarço do pé direito com a mão direita
+Ao pegar as duas pontas do cadarço do pé direito dá um nó
+Ser feliz
+Se não ficar feliz, chorar porque esqueceu algumas etapas
+
+
+Caminhar até chegar em frente a janela que fica no fundo da sala
+Ao chegar no fundo da sala, escolher uma das três janelas para abrir
+Ao escolher uma das janelas verificar se existe persiana 
+Se existe persiana, verificar se a persiana está levantada ou abaixada
+Se a persiana estiver levantada , verificar se a janela já se encontra aberta
+
+Se a janela estiver fechada, pegar na alavanca
+Se a alavanca estiver travada para o lado direito, destravar para o lado esquerdo
+Empurrar a alavanca para frente até não conseguir mais empurrar
+janela aberta
+
+Pegar na alavanca
+Puxar a alavanca para sua direção
+Travar a alavanca para o lado direito
+Janela fechada
+Ser feliz
+Se não ficar feliz, chorar porque esqueceu algumas etapas
+
+
+
